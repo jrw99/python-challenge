@@ -1,2 +1,2 @@
-# python-challenge
+# Python-Challenge
 Repo for Python project
